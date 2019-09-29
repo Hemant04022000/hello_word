@@ -1,2 +1,5 @@
 # hello_word
-just another repository
+
+welcome to git hub 
+welcome to c
+welcome to c++
